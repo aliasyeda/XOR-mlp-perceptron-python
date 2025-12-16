@@ -40,6 +40,7 @@ The XOR problem cannot be solved using a single-layer perceptron. Hence, a hidde
 ---
 
 ## 🚀 How to Run
+
 1. Clone the repository
    ```bash
    git clone https://github.com/aliasyeda/XOR-mlp-perceptron-python.git
@@ -50,6 +51,8 @@ Run all cells sequentially
 ---
 
 ✅ Output
+
+
 The model learns the XOR logic using backpropagation
 
 Final predictions match the XOR truth table
@@ -59,6 +62,8 @@ Training loss decreases over epochs
 ---
 
 📌 Conclusion
+
+
 This project demonstrates how a multi-layer perceptron can successfully learn the XOR function by using a hidden layer and non-linear activation functions, proving the limitation of single-layer perceptrons.
 
 ---
